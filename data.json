@@ -1,0 +1,66 @@
+//   // Huflit - CS1  10.778628519207865, 106.66684981586859
+//   // Huflit - CS2  10.785373754206741, 106.6629016041987 : cư xá Bắc Hải 
+//   // Huflit - CS3  10.81252179441444, 106.66478987934516  Trường Sơn
+
+// const dataExample1 = {
+//     pointA: {
+//       name: 'Huflit - CS1',
+//       id: 1,
+//       latitude: 10.778628519207865,
+//       longitude: 106.666849815868597,
+//       data: [
+//       {
+//           timestamp: new Date('2023-12-29T12: 00: 00Z'),
+//           sensors: {
+//             temperature: 25.5,
+//             humidity: 60,
+//             uvIndex: 7,
+//         },
+//       },
+//       // Add more sensor data entries if needed
+//     ],
+//   },
+// };
+  
+//   // Example 2
+//   const dataExample2 = {
+//     pointA: {
+//       name: 'Điểm B',
+//       id: 2,
+//       latitude: 10.9231,
+//       longitude: 106.7297,
+//       data: [
+//       {
+//           timestamp: new Date('2023-12-29T12: 00: 00Z'),
+//           sensors: {
+//             temperature: 26.8,
+//             humidity: 58,
+//             uvIndex: 6,
+//         },
+//       },
+//       // Add more sensor data entries if needed
+//     ],
+//   },
+// };
+  
+//   // Example 3
+//   const dataExample3 = {
+//     pointA: {
+//       name: 'Điểm C',
+//       id: 3,
+//       latitude: 10.7231,
+//       longitude: 106.5297,
+//       data: [
+//       {
+//           timestamp: new Date('2023-12-29T12: 00: 00Z'),
+//           sensors: {
+//             temperature: 24.3,
+//             humidity: 62,
+//             uvIndex: 8,
+//         },
+//       },
+//       // Add more sensor data entries if needed
+//     ],
+//   },
+// };
+  
